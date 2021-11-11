@@ -1,7 +1,11 @@
-import { Child } from "./Child";
+import { ChildAsFc } from "./Child";
 
 const Parent = () => {
-    return <Child color="red" />;
+    return (
+        <ChildAsFc color="red" onClick={() => console.log("Child click")}>
+            props_child
+        </ChildAsFc>
+    );
 };
 
 export default Parent;

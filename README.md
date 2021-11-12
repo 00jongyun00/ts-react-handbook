@@ -4,9 +4,9 @@
 
 #### maked
 
--   [x]state
+-   [x] state
     -   src/state
--   [x]refs
+-   [x] refs
     -   src/refs
 -   [x] props
     -   src/props

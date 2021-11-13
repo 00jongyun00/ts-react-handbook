@@ -14,10 +14,11 @@
     -   src/event
 
 #### making
-- [ ] Redux
-- [ ] Redux Store
-- [ ] Action Interfaces
-- [ ] Action Type Enum
-- [ ] Request Logic
-- [ ] Dispatch
-- [ ] Typed Selector
+
+-   [x] Redux
+-   [ ] Redux Store
+-   [ ] Action Interfaces
+-   [ ] Action Type Enum
+-   [ ] Request Logic
+-   [ ] Dispatch
+-   [ ] Typed Selector

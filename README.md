@@ -22,7 +22,4 @@
 - [x] Request Logic
 - [x] Dispatch
 - [x] Typed Selector
-
-#### making
-
-- [ ] consuming store state
+- [x] consuming store state

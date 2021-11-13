@@ -1,19 +1,14 @@
-# React using type Handbook
-
-## Book List
+## A Handbook for Using Redux and React Well for TypeScript
 
 #### maked
 
+> src/...
 - [x] state
-  - src/state
 - [x] refs
-  - src/refs
 - [x] props
-  - src/props
 - [x] event
-  - src/event
 
-> redux-ts/state
+> redux-ts/...
 
 - [x] Redux
 - [x] Redux Store

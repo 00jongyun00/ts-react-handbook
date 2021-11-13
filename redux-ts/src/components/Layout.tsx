@@ -1,6 +1,6 @@
-import { Provider } from "react-redux";
-import { store } from "../state";
-import RepositoriesList from "./RepositoriesList";
+import { Provider } from 'react-redux';
+import { store } from '../state';
+import RepositoriesList from './RepositoriesList';
 
 const Layout = () => {
   return (

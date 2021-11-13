@@ -13,12 +13,15 @@
 -   [x] event
     -   src/event
 
-#### making
 > redux-ts/state
+
 -   [x] Redux
 -   [x] Redux Store
 -   [x] Action Interfaces
 -   [x] Action Type Enum
 -   [x] Request Logic
 -   [x] Dispatch
+
+#### making
+
 -   [ ] Typed Selector

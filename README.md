@@ -6,16 +6,14 @@
 - [type script 고급1](https://popawaw.tistory.com/254)
 - [type script 고급2](https://popawaw.tistory.com/255)
 
-### Contents
-
-#### 1
+### react basic
 > src/...
 - [x] state
 - [x] refs
 - [x] props
 - [x] event
 
-#### 2
+### react redux
 > redux-ts/...
 - [x] Redux
 - [x] Redux Store

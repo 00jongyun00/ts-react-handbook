@@ -3,6 +3,7 @@
 - [type script interface](https://popawaw.tistory.com/253)
 - [type script 고급1](https://popawaw.tistory.com/254)
 - [type script 고급2](https://popawaw.tistory.com/255)
+- [제너릭 프로그래밍](https://popawaw.tistory.com/256)
 
 ### react basic
 > src/...

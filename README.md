@@ -1,5 +1,3 @@
-## A Handbook for Using Redux and React Well for TypeScript
-
 ## Typescript 문법에 관한 것들
 - [type script class](https://popawaw.tistory.com/252?category=912182)
 - [type script interface](https://popawaw.tistory.com/253)
